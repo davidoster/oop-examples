@@ -1,8 +1,9 @@
 package org.afdemp.cb6.ex03;
 
-import org.afdemp.cb6.ex03.calc.ArithmeticCalculation;
-import org.afdemp.cb6.ex03.calc.Sub;
-import org.afdemp.cb6.ex03.calc.Sum;
+//import org.afdemp.cb6.ex03.calc.ArithmeticCalculation;
+//import org.afdemp.cb6.ex03.calc.Sub;
+//import org.afdemp.cb6.ex03.calc.Sum;
+import org.afdemp.cb6.ex03.calc.*;
 import org.afdemp.cb6.ex03.geom.Arrow;
 import org.afdemp.cb6.ex03.geom.Circle;
 import org.afdemp.cb6.ex03.geom.Line;
